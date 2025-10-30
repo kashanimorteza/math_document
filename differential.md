@@ -26,7 +26,7 @@
 <br><br>
 
 ## Subject
-[Derivative](https://github.com/kashanimorteza/ai_document/blob/main/doc/derivative.md)
+[Derivative](https://github.com/kashanimorteza/ai_document/blob/main/derivative.md)
 
 
 
