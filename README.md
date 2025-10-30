@@ -17,4 +17,4 @@
 <br><br>
 
 ## Differential
-[Here...](https://github.com/kashanimorteza/ai_document/blob/main/differential.md)
+[Here...](https://github.com/kashanimorteza/math_document/blob/main/differential.md)
