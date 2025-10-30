@@ -16,14 +16,14 @@
         <mxCell id="HRdKpd_t4PCCufJs8SFI-4" value="&lt;span style=&quot;font-size: 36px;&quot;&gt;Math&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="380" y="-440" width="110" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="HRdKpd_t4PCCufJs8SFI-7" value="Statistics&amp;nbsp;&lt;div&gt;and&lt;/div&gt;&lt;div&gt;probability&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;fontSize=24;" parent="1" vertex="1">
-          <mxGeometry x="560" y="-305" width="170" height="160" as="geometry" />
+        <mxCell id="HRdKpd_t4PCCufJs8SFI-7" value="Statistics&amp;nbsp;&lt;div&gt;And&lt;/div&gt;&lt;div&gt;Probability&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;fontSize=24;" parent="1" vertex="1">
+          <mxGeometry x="540" y="-305" width="160" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="COEvjrz7dM8iQSiR4-q4-20" value="Linear algebra" style="ellipse;whiteSpace=wrap;html=1;fontSize=24;" parent="1" vertex="1">
-          <mxGeometry x="335" y="-285" width="200" height="120" as="geometry" />
+        <mxCell id="COEvjrz7dM8iQSiR4-q4-20" value="Linear&lt;div&gt;Algebra&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;fontSize=24;" parent="1" vertex="1">
+          <mxGeometry x="355" y="-305" width="160" height="160" as="geometry" />
         </mxCell>
         <mxCell id="SvB1TmC0K4GEKoGrgyMx-8" value="Differential" style="ellipse;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=24;fontColor=default;fillColor=default;" parent="1" vertex="1">
-          <mxGeometry x="160" y="-305" width="160" height="160" as="geometry" />
+          <mxGeometry x="170" y="-305" width="160" height="160" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

@@ -1,6 +1,6 @@
 <!--------------------------------------------------------------------------------- Math -->
 # Math
-![Math](https://github.com/kashanimorteza/math_document/blob/main/design/index.png)
+![](https://github.com/kashanimorteza/math_document/blob/main/design/index.png)
 
 
 
