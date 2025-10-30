@@ -3,30 +3,11 @@
 [Math]
 
 
-
-<!--------------------------------------------------------------------------------- Description -->
+<!--------------------------------------------------------------------------------- Derivative -->
 <br><br>
 
-## Description
-```
-```
-
-
-
-<!--------------------------------------------------------------------------------- Resource -->
-<br><br>
-
-## Resource
-```
-```
-
-
-
-<!--------------------------------------------------------------------------------- Subject -->
-<br><br>
-
-## Subject
-[Derivative](https://github.com/kashanimorteza/math_document/blob/main/derivative.md)
+## Derivative
+[Here](https://github.com/kashanimorteza/math_document/blob/main/derivative.md)
 
 
 
