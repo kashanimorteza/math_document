@@ -28,14 +28,6 @@ masahat mosalat = (1/2) * r * 2pr = prr
 ```
 
 
-har chi tedade in halghe haro bishtar konim, pas tedade mostatil haye bishtar darim ba khatahaye kochektar
-yani vaghti dr ra kam mikonim khata kam mishavad
-
-hala in mostatil haro amodi konim va baghale ham bezarim mishe mosalas
-
-
-(2*p*r) * dr  
-
 
 <!--------------------------------------------------------------------------------- Resource -->
 <br><br>
