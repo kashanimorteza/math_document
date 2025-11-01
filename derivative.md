@@ -18,8 +18,10 @@ Circumference of a circle = 2pr
 عرض هر حلقه
 r+d
 هر حلقه را باز می‌کنیم و می‌شود یک مستطیل با خطای گوشه‌هاش
+طول مستطیل میشه محیط دایره
+عرض مستطیل می‌شود dr
 
-
+masahate mostatil = 2pr * dr 
 ```
 
 koli dayere dakhele dayere
