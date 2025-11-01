@@ -13,23 +13,20 @@ Area of ​​a circle          = prr
 Circumference of a circle = 2pr
 ```
 ```
-کلی دایره داخل دایره
-جمع مساحت تمام حلقه‌های دایره
-عرض هر حلقه
-r+d
+کلی حلقه داخل دایره
+جمع مساحت تمام حلقه‌های داخل دایره
+Arz har halghe = r+d
 هر حلقه را باز می‌کنیم و می‌شود یک مستطیل با خطای گوشه‌هاش
 طول مستطیل میشه محیط دایره
 عرض مستطیل می‌شود dr
-masahate mostatil = 2pr * dr 
+masahate mostatil = 2pr * d+r 
+هر چقدر تعداد این حلقه‌ها بیشتر باشد تعداد بیشتری از مستطیل‌ها با عرض کوچکتر و در نتیجه خطای کوچکتر خواهیم داشت
+حالا اگر همه مستطیل‌ها را از کوچیک به بزرگ به صورت عمودی در یک تصویر قرار دهیم شبیه مثلث می‌شود
+ghaede mosalas = r
+ertefa mosalat = 2pr
+masahat mosalat = (1/2) * r * 2pr = prr
 ```
 
-koli dayere dakhele dayere
-masahate halghe haye dakhele dayere 
-arz har halghe = r+d
-bazesh mikonim mishe mostatil va ye kam khatahaye goshe:
-    toole mostatil = (mohit dayere )
-    arze mostatil = dr
-    masahat = 2pr * dr
 
 har chi tedade in halghe haro bishtar konim, pas tedade mostatil haye bishtar darim ba khatahaye kochektar
 yani vaghti dr ra kam mikonim khata kam mishavad
