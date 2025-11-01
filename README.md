@@ -14,6 +14,22 @@ https://robotech-academy.com/product/math-ai/
 
 
 
+<!--------------------------------------------------------------------------------- Derivative -->
+<br><br>
+
+## Derivative
+[Here](https://github.com/kashanimorteza/math_document/blob/main/derivative.md)
+
+
+
+<!--------------------------------------------------------------------------------- Limit -->
+<br><br>
+
+## Limit
+[Here](https://github.com/kashanimorteza/math_document/blob/main/limit.md)
+
+
+
 <!--------------------------------------------------------------------------------- Differential -->
 <br><br>
 
