@@ -8,6 +8,9 @@
 <br><br>
 
 ## Resource
+```
+https://robotech-academy.com/product/math-ai/
+```
 
 
 
