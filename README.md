@@ -8,9 +8,9 @@
 <br><br>
 
 ## Resource
-```
-https://robotech-academy.com/product/math-ai/
-```
+[حامد قاسمی](https://robotech-academy.com/product/math-ai/)  
+[لیلا رحمتی](faradars.org/videos/foundation-mathematics-for-artificial-intelligence-fvtgs3889)  
+
 
 
 
